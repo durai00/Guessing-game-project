@@ -24,6 +24,9 @@ The game will display how many attempts it took you and the time it took to gues
 The game will also display the high scores list.
 You can choose to play again or quit the game.
 
+Music file:
+Add the music file in your folder before running the code
+
 Contributing:
 Contributions to this program are welcome! If you would like to contribute, please follow these guidelines:
 
